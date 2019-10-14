@@ -6,11 +6,12 @@ def using_while(looping_string)
   end
   end 
   
-  using_until("Wingardium Leviosa")
+ def using_until
   levitation_force = 0
 until levitation_force == 10
   puts "Wingardium Leviosa"
   levitation_force += 1
+end
 end
 
 
