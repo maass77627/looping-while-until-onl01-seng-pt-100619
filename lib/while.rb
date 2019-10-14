@@ -6,7 +6,7 @@ def using_while(looping_string)
   end
   end 
   
-  using_while("Wingardium Leviosa")
+  using_until("Wingardium Leviosa")
 
 
 
